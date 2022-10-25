@@ -19,8 +19,8 @@ function Documentation(){
             </ol>
 
             <p className='text-2xl mt-10'>
-                To test the bot, type "?bot ping" in the Discord server,
-                it will respond "pong!""
+                To test the bot, type \"?bot ping\" in the Discord server,
+                it will respond \"pong!\"
             </p>
         </div>
     </>)
