@@ -14,7 +14,7 @@ function Documentation(){
                     Note the build ID from the step above
                 </li>
                 <li>
-                    docker run [ID]
+                    docker run buildID
                 </li>
             </ol>
 
