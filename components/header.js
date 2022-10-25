@@ -5,7 +5,7 @@ function DynamicHeader() {
                 <h1 className="text-center font-bold text-3xl">Discord Intro Bot</h1>
             </div>
 
-            <div className="flex justify-center space-x-6 mt-6">
+            <div className="flex justify-center space-x-6 mt-6 text-2xl">
                 <div>Install</div>
                 <div>Documentation</div>
                 <div>About</div>
