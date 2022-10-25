@@ -8,7 +8,7 @@ function Install(){
             
             <ol className='list-decimal mt-6 text-2xl space-y-2'>
                 <li>Download the <a href='https://github.com/gdiazbanuelos/Discord-IntroBot'
-                target="_blank" className='text-blue underline'>source code</a>
+                className='text-blue underline'>source code</a>
                 </li>
                 <li>
                     Fill out the users.json file
