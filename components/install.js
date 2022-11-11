@@ -14,7 +14,8 @@ function Install() {
                     Fill out the users.json file
                 </li>
                 <li>
-                    Open bot.py and fill in for DEMO 3
+                    Open bot.py and fill in for DEMO 3 
+                    HELLLO
                 </li>
             </ol>
         </div>

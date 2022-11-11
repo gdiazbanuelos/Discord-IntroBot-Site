@@ -7,6 +7,7 @@ function Summary(){
             <Image src='/static/ed.gif' alt="Sax" width="350px" height="300px"/>
             <p className="mt-6 font-bold text-2xl">When a user joins a Discord voice channel,
             the bot joins in and plays a short sound byte!</p>
+            adslkjadhasjdhsa
         </div>
     </>)
 }
